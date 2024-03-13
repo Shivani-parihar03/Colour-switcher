@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+h3{
+    text-align: center;
+    margin-top: 10%;
+}
+.container {
+
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box { 
+
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border:2px solid black;
+    box-shadow: 0 0 1rem rgba(0,0,1.5);
+    font-size: 7vmin;
+    padding: 20px;    
+}
+
+#box1{
+    background-color:#5E1675;
+}
+
+#box2{
+    background-color: #EE4266;
+}
+
+#box3{
+    background-color:#FFD23F;
+}
+
+#box4{
+    background-color: #337357;
+}
+
+
